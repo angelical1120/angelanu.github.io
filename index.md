@@ -14,7 +14,7 @@
 </body>
   <p>lo clasificamos por colores:
   <li type="circle"><font color="purple">mamiferos</font></li>
-  <li type="circle"><font color="green">obiparois</font></li>
+  <li type="circle"><font color="green">oviparois</font></li>
   </p>
 <u><font color="purple"><h3> Pika Ili</h3></font></u>
 <p>Durante más de 20 años, el pika Ili, es un mamífero pequeño que vive en las montañas, tiene un aspecto de cara de oso de peluche, lo han descubierto en las montañas de Tianshan, en el noroeste de China.
@@ -31,7 +31,7 @@ La rana fue hallada encima de un saco de arroz por el herpetólogo Paul Oliver, 
 <div align="green"><img src="https://wl-genial.cf.tsp.li/resize/728x/jpg/6ce/52d/ae7dc95ae9ac5ebdeb40a3abc6.jpg" width="160" height="150"></div>
 Para mas informacio:<a>https://www.nationalgeographic.es/animales/2019/06/esta-nueva-especie-de-rana-pinocho-tiene-una-extrana-nariz-puntiaguda</a>
 
-<u><font color="purple"><h3> Grimpoteuthis</h3></font></u>
+<u><font color="green"><h3> Grimpoteuthis</h3></font></u>
 <p>ste octópodo es conocido como ‘Pulpo Dumbo’ por las aletas que tiene en la cabeza. La semana pasada me pareció verlo en la ruta de la tapa de mi pueblo. No tapeando sino como tapa. Aunque dudo que fuese uno de ellos pues es uno de los animales extraños más difíciles de encontrar. Me parece graciosísimo.</p>
 <div align="center"><img src="https://i.blogs.es/e9edf0/dumbo-hires_-cropped-/1366_2000.jpg" width="150" height="100"></div>
 
