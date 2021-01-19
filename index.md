@@ -16,6 +16,7 @@
 
 La gente ha visto a la criatura peluda sólo unas cuantas veces desde que fue descubierta accidentalmente en 1983. De hecho, sólo se han visto 29 ejemplares vivos, y poco se sabe acerca de su ecología y comportamiento.
 Este animal dejaron alucinando a muchos cientificos y investigadores</p>
+<img src="https://wl-genial.cf.tsp.li/resize/728x/jpg/272/41c/229c1756acb5ceabdd8bf4860b.jpg">
 </html>
 
 
