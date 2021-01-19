@@ -15,7 +15,7 @@
   <li type="circle"><font color="purple">Mamíferos</font></li>
   <li type="circle"><font color="green">Ovíparos</font></li>
   </p>
-  
+ 
   
 <u><font color="purple"><h3> Pika Ili</h3></font></u>
 <p>Durante más de 20 años, el pika Ili, es un mamífero pequeño que vive en las montañas, tiene un aspecto de cara de oso de peluche, lo han descubierto en las montañas de Tianshan, en el noroeste de China.
@@ -25,6 +25,7 @@ Este animal dejaron alucinando a muchos cientificos y investigadores</p>
 <div align="center"><img src="https://wl-genial.cf.tsp.li/resize/728x/jpg/272/41c/229c1756acb5ceabdd8bf4860b.jpg" width="150" height="100"></div>
 <b>Para mas informacio:<a> https://www.ngenespanol.com/naturaleza/el-mamifero-que-eludioalaciencia/ </a>
 
+<br/>
 
 <u><font color="green"><h3> Rana Pinocho</h3></font></u>
 <p>Fue descubierta en Indonesia en el año 2008, en las montañas Foja, en la provincia de Papúa. Se apodó la rana pinocho por la protuberancia similar a una nariz humana. Según indican los científicos, puede mover su nariz hacia arriba ante la llamada del macho o hacia abajo cuando está menos activa.
