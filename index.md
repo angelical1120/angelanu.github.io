@@ -28,7 +28,7 @@ Para mas informacio:<a>https://www.nationalgeographic.es/animales/2019/06/esta-n
 <p>ste octópodo es conocido como ‘Pulpo Dumbo’ por las aletas que tiene en la cabeza. La semana pasada me pareció verlo en la ruta de la tapa de mi pueblo. No tapeando sino como tapa. Aunque dudo que fuese uno de ellos pues es uno de los animales extraños más difíciles de encontrar. Me parece graciosísimo.</p>
 <div align="center"><img src="https://i.blogs.es/e9edf0/dumbo-hires_-cropped-/1366_2000.jpg" width="150" height="100"></div>
 
-<font color="green">para mas informacion:</font><a>https://www.animalesraros.net/moluscos/pulpo-dumbo/</a>
+<font color="purple">para mas informacion:</font><a>https://www.animalesraros.net/moluscos/pulpo-dumbo/</a>
 
 
 
