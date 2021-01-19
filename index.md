@@ -48,7 +48,8 @@ La rana fue hallada encima de un saco de arroz por el herpetólogo Paul Oliver, 
 <b>Para mas informacio:</b><a>https://misanimales.com/el-jerbo-de-orejas-largas-todo-lo-que-debes-saber/</a>
 
 <u><font color="purple"><h3>Ajolotea</h3></font></u>
-<p>Se trata de un amfibio oriundo de México y cuyo hábitat natural se limita exclusivamente a los lagos próximos a la Ciudad de México. La introducción de especies no autóctonas y sobre todo su explotación desmedida ha provocado que se encuentre en peligro de extinción. Su captura intensiva ha sido provocada por la creencia de que tiene propiedades para tratar enfermedades respiratorias, lo que ha hecho que en la medicina tradicional mexicana se elaboren jarabes a partir de ajolote.</p>
+<p>se llama <u>ajolotea</u> aunque algunas personas lo llaman tambien <u>axolote</u>.
+Se trata de un amfibio oriundo de México y cuyo hábitat natural se limita exclusivamente a los lagos próximos a la Ciudad de México. La introducción de especies no autóctonas y sobre todo su explotación desmedida ha provocado que se encuentre en peligro de extinción. Su captura intensiva ha sido provocada por la creencia de que tiene propiedades para tratar enfermedades respiratorias, lo que ha hecho que en la medicina tradicional mexicana se elaboren jarabes a partir de ajolote.</p>
 
 
 
