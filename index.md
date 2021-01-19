@@ -29,13 +29,14 @@ Este animal dejaron alucinando a muchos cientificos y investigadores</p>
 La rana fue hallada encima de un saco de arroz por el herpetólogo Paul Oliver, del programa de Conservación Internacional RAP. Fue el único ejemplar que se encontró, aunque se supone que pueden vivir en la copa de los árboles ya que se trata de una rana arborícola. Se alimentan de insectos y reptiles</p>
 <div align="center"><img src="https://wl-genial.cf.tsp.li/resize/728x/jpg/6ce/52d/ae7dc95ae9ac5ebdeb40a3abc6.jpg" width="160" height="150"></div>
 <b>Para mas informacio:</b><a> https://www.nationalgeographic.es/animales/2019/06/esta-nueva-especie-de-rana-pinocho-tiene-una-extrana-nariz-puntiaguda </a>
+<a href=”https://www.nationalgeographic.es/animales/2019/06/esta-nueva-especie-de-rana-pinocho-tiene-una-extrana-nariz-puntiaguda”>mas informacion</a>
 
 <u><font color="green"><h3> Grimpoteuthis</h3></font></u>
 <p>ste octópodo es conocido como ‘Pulpo Dumbo’ por las aletas que tiene en la cabeza. La semana pasada me pareció verlo en la ruta de la tapa de mi pueblo. No tapeando sino como tapa. Aunque dudo que fuese uno de ellos pues es uno de los animales extraños más difíciles de encontrar. Me parece graciosísimo.</p>
 <div align="center"><img src="https://i.blogs.es/e9edf0/dumbo-hires_-cropped-/1366_2000.jpg" width="150" height="100"></div>
 
 <b>Para mas informacio:</b><a> https://www.animalesraros.net/moluscos/pulpo-dumbo/ </a>
-
+<a href=”https://www.animalesraros.net/moluscos/pulpo-dumbo/”>mas informacion</a>
 <u><font color="purple"><h3>Colugo</h3></font></u>
 <p>animal extraño que es capaz de llegar de un árbol a otro planeando por el aire. ¿Cómo? Con una membrana que tiene en sus extremidades. Hay quien les llama ‘Lemúres voladores’ por esa característica. Me parece un animal extraño apasionante. De los que son capaces de ir volando a probar la carta de invierno de llaollao.</p>
 <div align="center"><img src="https://www.llaollaoweb.com/blog/wp-content/uploads/2013/10/colugo.jpg" width="150" height="200"></div>
