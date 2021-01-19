@@ -39,7 +39,7 @@ Para mas informacio:<a>https://www.nationalgeographic.es/animales/2019/06/esta-n
 
 <u><font color="purple"><h3>Colugo</h3></font></u>
 <p>animal extraño que es capaz de llegar de un árbol a otro planeando por el aire. ¿Cómo? Con una membrana que tiene en sus extremidades. Hay quien les llama ‘Lemúres voladores’ por esa característica. Me parece un animal extraño apasionante. De los que son capaces de ir volando a probar la carta de invierno de llaollao.</p>
-<div align="center">https://www.llaollaoweb.com/blog/wp-content/uploads/2013/10/colugo.jpg</div>
+<div align="center"><img src="https://www.llaollaoweb.com/blog/wp-content/uploads/2013/10/colugo.jpg" width="150" height="100"></div>
 
 </html>
 
