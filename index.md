@@ -13,8 +13,8 @@
 
 </body>
   <p>lo clasificamos por colores:
-  <li type="circle"><font color="purple">mamiferos</font></li>
-  <li type="circle"><font color="green">oviparois</font></li>
+  <li type="circle"><font color="purple">Mamiferos</font></li>
+  <li type="circle"><font color="green">Oviparois</font></li>
   </p>
 <u><font color="purple"><h3> Pika Ili</h3></font></u>
 <p>Durante más de 20 años, el pika Ili, es un mamífero pequeño que vive en las montañas, tiene un aspecto de cara de oso de peluche, lo han descubierto en las montañas de Tianshan, en el noroeste de China.
