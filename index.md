@@ -30,6 +30,13 @@ Para mas informacio:<a>https://www.nationalgeographic.es/animales/2019/06/esta-n
 
 para mas informacion:<a>https://www.animalesraros.net/moluscos/pulpo-dumbo/</a>
 
+#slogan {
+Font-size: 20px;
+Color:green;
+Font-style: italic;
+}
+
+
 </html>
 
 
