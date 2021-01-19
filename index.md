@@ -2,7 +2,7 @@
 
 <head>
 
-<h1> Animales raros </h1>
+<title> Animales raros </title>
 
 </head>
 
