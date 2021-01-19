@@ -42,6 +42,7 @@ La rana fue hallada encima de un saco de arroz por el herpetólogo Paul Oliver, 
 <div align="center"><img src="https://www.llaollaoweb.com/blog/wp-content/uploads/2013/10/colugo.jpg" width="150" height="200"></div>
 
 <b><font color="blue">Para mas informacio:</font></b><a>https://wikifaunia.com/mamiferos/colugo/#:~:text=Caracter%C3%ADsticas,varia%20de%201000%2D1750%20g.</a>
+
 </html>
 
 
