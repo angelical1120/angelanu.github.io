@@ -40,13 +40,12 @@ La rana fue hallada encima de un saco de arroz por el herpetólogo Paul Oliver, 
 <p>animal extraño que es capaz de llegar de un árbol a otro planeando por el aire. ¿Cómo? Con una membrana que tiene en sus extremidades. Hay quien les llama ‘Lemúres voladores’ por esa característica. Me parece un animal extraño apasionante. De los que son capaces de ir volando a probar la carta de invierno de llaollao.</p>
 <div align="center"><img src="https://www.llaollaoweb.com/blog/wp-content/uploads/2013/10/colugo.jpg" width="150" height="200"></div>
 
-<b>Para mas informacio:</b><a>https://wikifaunia.com/mamiferos/colugo/#:~:text=Caracter%C3%ADsticas,varia%20de%201000%2D1750%20g.</a>
+<b>Para mas informacio:</b><a>https://elpais.com/elpais/2016/08/10/ciencia/1470851015_486896.html</a>
 
 <u><font color="purple"><h3>Jerbo de orejas largas.</h3></font></u>
 <p>No mide más de 9 cm de largo. Como imaginarás, se desplaza pegando saltos. Por eso tiene las patas de atrás más grandes que las de delante. Si te soy sincero, cuando lo vi pensaba que no se desplazaba saltando sino volando. Este gasta más en bastoncillos para las orejas que Melendi en suavizante para el pelo.</p>
 <div align="center"><img src="https://www.llaollaoweb.com/blog/wp-content/uploads/2013/10/jerbo.jpg" width="200" height="150"></div>
-<b>Para mas informacio:</b><a>https://es.wikipedia.org/wiki/Euchoreutes_naso#:~:text=El%20jerbo%20
-  de%20orejas%20largas,desiertos%20de%20Gobi%20y%20Taklamak%C3%A1n.</a>
+<b>Para mas informacio:</b><a>https://misanimales.com/el-jerbo-de-orejas-largas-todo-lo-que-debes-saber/</a>
 AJOLOTE
 <u><font color="purple"><h3>AJOLOTE</h3></font></u>
 <p>Se trata de un amfibio oriundo de México y cuyo hábitat natural se limita exclusivamente a los lagos próximos a la Ciudad de México. La introducción de especies no autóctonas y sobre todo su explotación desmedida ha provocado que se encuentre en peligro de extinción. Su captura intensiva ha sido provocada por la creencia de que tiene propiedades para tratar enfermedades respiratorias, lo que ha hecho que en la medicina tradicional mexicana se elaboren jarabes a partir de ajolote.</p>
