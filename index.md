@@ -2,7 +2,6 @@
 
 <head>
 
-<title> Animales raros </title>
 
 </head>
 
