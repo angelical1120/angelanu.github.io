@@ -55,7 +55,7 @@ La rana fue hallada encima de un saco de arroz por el herpetólogo Paul Oliver, 
 <u><font color="green"><h3>Pangolín de vientre blanco</h3></font></u>
 <p>El pangolín, también llamado "oso hormiguero con escamas", es, según las organizaciones ecologistas, el mamífero con el que más se trafica en el mundo. El uso que se les da a las escamas dentro de la medicina tradicional de varios países por sus propiedades curativas para tratar enfermedades de la piel ha convertido al pangolín en un animal en peligro de extinción. Además, su carne, considerada de calidad en los países asiático hacen del pangolín uno de los animales más vulnerables del planeta.</p>
 <div align="center"><img src="https://www.hogarmania.com/archivos/202002/pangolin-el-animal-mas-traficado-del-mundo-668x400x80xX-1.jpg" width="200" height="150"></div>
-<b>Para mas informacio:</b><a>https://www.worldwildlife.org/descubre-wwf/historias/pangolin</a>
+<b>Para mas informacio:</b><a>https://www.worldwildlife.org/descubre-wwf/historias/pangolin</a> 
 
 
 
